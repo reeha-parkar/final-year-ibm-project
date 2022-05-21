@@ -1,7 +1,6 @@
 altair
 base58
 matplotlib
-msilib
 numpy
 pandas
 plotly
