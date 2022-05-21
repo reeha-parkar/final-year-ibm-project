@@ -11,8 +11,4 @@ def app():
         st.title("CUSTOMER LIFETIME VALUE MODELLING")
         st.write("Know which customers are adding value to your store's lifetime!.")
 
-        st.subheader('Team Members:')
-        names = pd.DataFrame(['Dania Juvale','Nandinee Kaushik', 'Reeha Parkar'], [60001180014, 60001180033, 60001180046], columns=['Names'])
-        st.dataframe(names)
-
    
