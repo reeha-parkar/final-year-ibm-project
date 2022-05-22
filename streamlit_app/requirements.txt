@@ -1,5 +1,5 @@
 altair
-base58
+base64
 plotly
 matplotlib
 numpy
