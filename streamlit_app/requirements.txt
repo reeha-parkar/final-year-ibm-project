@@ -1,9 +1,9 @@
 altair
 base58
+plotly
 matplotlib
 numpy
 pandas
-plotly
 scikit-learn
 sklearn
 streamlit==1.3.1
