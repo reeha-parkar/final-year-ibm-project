@@ -1,6 +1,4 @@
-from turtle import color
 from matplotlib import markers
-
 from matplotlib.pyplot import scatter
 import streamlit as st
 import sys
