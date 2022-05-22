@@ -1,5 +1,3 @@
-from itertools import count
-from turtle import color
 import streamlit as st
 import SessionState
 import pandas as pd
